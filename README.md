@@ -1,7 +1,7 @@
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/gridcomponent-styled-with-sass-yxkl9GWHj]
-- Live Site URL: [https://ericl81.github.io/FEM-Single_price_grid_component/]
+- Live Site URL: [https://ericldev.github.io/FEM-Single_price_grid_component/]
 
 # Frontend Mentor - Single price grid component
 
